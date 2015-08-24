@@ -1,0 +1,6 @@
+com.vaadin.tapio.googlemaps
+com.vaadin.tapio.googlemaps.client
+com.vaadin.tapio.googlemaps.client.events
+com.vaadin.tapio.googlemaps.client.layers
+com.vaadin.tapio.googlemaps.client.overlays
+com.vaadin.tapio.googlemaps.client.rpcs
