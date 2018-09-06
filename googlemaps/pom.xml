@@ -6,7 +6,7 @@
     <groupId>com.eyewyre</groupId>
     <artifactId>googlemaps</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.2.2</version>
+    <version>1.0.2.3</version>
     <name>GoogleMaps Add-on</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -6,6 +6,15 @@ Get it from [Vaadin Directory](https://vaadin.com/directory#!addon/googlemaps-ad
 
 Check out the demo @ [http://tapio.app.fi/googlemaps/](http://tapio.app.fi/googlemaps/). 
 
+
+## Building ##
+The project uses maven. To build and generate the jar, use the commands:
+```
+mvn clean
+mvn compile
+mvn package
+```
+
 ## Development notice ##
 
 If you don't use dependency management (i.e. Maven or Ivy) you'll have to manually add `GWT-Maps-V3-Api` and `GWT-AjaxLoader` jars to your project. Without them you'll get errors like

@@ -24,12 +24,12 @@ com/vaadin/tapio/googlemaps/client/GoogleMapWidget$2.class
 com/vaadin/tapio/googlemaps/client/events/MapMoveListener.class
 com/vaadin/tapio/googlemaps/client/layers/GoogleMapKmlLayer.class
 com/vaadin/tapio/googlemaps/GoogleMap$6.class
-com/vaadin/tapio/googlemaps/client/GoogleMapWidget$6.class
 com/vaadin/tapio/googlemaps/GoogleMap$2.class
+com/vaadin/tapio/googlemaps/client/GoogleMapWidget$6.class
 com/vaadin/tapio/googlemaps/client/events/MapClickListener.class
 com/vaadin/tapio/googlemaps/client/events/MarkerClickListener.class
-com/vaadin/tapio/googlemaps/client/LatLon.class
 com/vaadin/tapio/googlemaps/client/rpcs/MarkerDraggedRpc.class
+com/vaadin/tapio/googlemaps/client/LatLon.class
 com/vaadin/tapio/googlemaps/GoogleMap$5.class
 com/vaadin/tapio/googlemaps/client/GoogleMapConnector.class
 com/vaadin/tapio/googlemaps/client/overlays/GoogleMapPolyline.class

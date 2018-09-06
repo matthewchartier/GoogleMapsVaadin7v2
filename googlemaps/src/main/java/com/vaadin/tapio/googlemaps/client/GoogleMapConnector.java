@@ -222,7 +222,7 @@ public class GoogleMapConnector extends AbstractComponentConnector implements
         if (getState().clientId != null) {
             params = "client=" + getState().clientId;
         } else if (getState().apiKey != null) {
-            params = "APIKEY=" + getState().apiKey;
+            params = "key=" + getState().apiKey;
         }
 
         LoadApi.go(onLoad, loadLibraries, false, language, params);
